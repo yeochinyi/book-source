@@ -1,0 +1,12 @@
+
+.chart {
+    border: 1px solid black;
+}
+
+.chart circle {
+    fill: #01499D;
+}
+
+.chart text {
+    text-anchor: middle;
+}
